@@ -44,3 +44,8 @@ I'm the founder of the **Open Omni-Cloud** initiative, a community-driven projec
 
 > _“Architecture is the art of structuring complexity — software is its most expressive canvas.”_
 > — Valter Hugo Guandaline
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guandaline&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
