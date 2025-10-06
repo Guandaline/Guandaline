@@ -10,7 +10,7 @@ My mission is to solve the broken promise of multi-cloud by replacing marketing 
 
 I'm the founder of the **Open Omni-Cloud** initiative, a community-driven project to create a verifiable standard for truly cloud-agnostic architectures. Our goal is to make cloud portability a guaranteed property, not a marketing claim.
 
--   ⭐ **Contribute to the TCK:** [github.com/open-omni-cloud/tck-py]
+-   ⭐ **Contribute to the TCK:** [https://github.com/open-omni-cloud/tck-py]
 -   ❤️ **Support the Mission:** [https://opencollective.com/open-omni-cloud]
 -   📖 **Read the Manifesto:** [https://github.com/open-omni-cloud/tck-py/blob/main/MANIFESTO.md]
 
