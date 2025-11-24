@@ -32,7 +32,7 @@ I work at the intersection of **LLMs, infrastructure and engineering**, building
 ---
 
 ## 🚀 Current Work: **Athomic** 
-![See the docs](https://guandaline.github.io/athomic-docs/)
+[See the docs](https://guandaline.github.io/athomic-docs/)
 
 I'm building **Athomic**, a modern backend framework specialized for AI-native and data-intensive applications.
 
