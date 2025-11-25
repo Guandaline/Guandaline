@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Valter Hugo Guandaline
 
 I'm a **Machine Learning Engineer** and **Platform Architect** passionate about building AI systems that are scalable, reliable, and production-ready.  
-Over 13+ years, I've worked across **AI Engineering**, **Backend Architecture**, and **Distributed Systems**, helping companies bring real AI products to life — not just prototypes.
+Over 13+ years, I've worked across **AI Engineering**, **Backend Architecture**, and **Distributed Systems**, helping companies bring real AI products to life.
 
 ---
 
@@ -49,7 +49,7 @@ Focus areas include:
 
 ## 🌐 Side Project: Open Omni-Cloud
 
-I maintain the Open Omni-Cloud initiative as a **research project** into verifiable cloud-agnostic architectures — similar to a "TCK for multi-cloud".
+I maintain the Open Omni-Cloud initiative as a **research project** into verifiable cloud-agnostic architectures, similar to a "TCK for multi-cloud".
 
 - ⭐ Contribute: <https://github.com/open-omni-cloud/tck-py>  
 - 📖 Manifesto: <https://github.com/open-omni-cloud/tck-py/blob/main/MANIFESTO.md>
@@ -98,7 +98,7 @@ Specification + test suite for cloud-agnostic runtime guarantees.
 
 ---
 
-> _ “Architecture is the art of structuring complexity — software is its most expressive canvas.”_
+> _ “Architecture is the art of structuring complexity, and software engineering is its most expressive canvas.”_
 > — Valter Hugo Guandaline
 
 ---
