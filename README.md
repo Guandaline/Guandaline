@@ -102,5 +102,3 @@ Specification + test suite for cloud-agnostic runtime guarantees.
 > — Valter Hugo Guandaline
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Guandaline&show_icons=true&theme=dark)
