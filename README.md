@@ -54,8 +54,6 @@ I maintain the Open Omni-Cloud initiative as a **research project** into verifia
 - ⭐ Contribute: <https://github.com/open-omni-cloud/tck-py>  
 - 📖 Manifesto: <https://github.com/open-omni-cloud/tck-py/blob/main/MANIFESTO.md>
 
-*(More ML focus, less central prominence.)*
-
 ---
 
 ## 🛠 Tech Stack Highlights
